@@ -6,3 +6,9 @@
 3. Make your changes and commit them (git commit -am 'Add new feature').
 4. Push to your fork (git push origin feature-xyz).
 5. Create a pull request.
+
+#### * Please ensure that your contributions adhere to the following:
+
+- Write clear, concise commit messages.
+- Follow the existing code style.
+- Include tests for any new functionality.
