@@ -3,7 +3,7 @@
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/brgkdm/special-bank
+   git clone https://github.com/brgkdm/special-bank.git
    ```
 2. Access to file   
    ```bash
