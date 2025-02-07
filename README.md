@@ -10,7 +10,7 @@ A comprehensive platform designed to assist cybersecurity professionals in penet
 - [Introduction](https://github.com/brgkdm/special-bank/blob/main/introduction.md)
 - [Features](https://github.com/brgkdm/special-bank/blob/main/features.md)
 - [Tech Stack](https://github.com/brgkdm/special-bank/blob/main/tech-stack.md)
-- [SInstallation Steps](https://github.com/brgkdm/special-bank/blob/main/setup.md)
+- [Installation Steps](https://github.com/brgkdm/special-bank/blob/main/setup.md)
 - [Usage](https://github.com/brgkdm/special-bank/blob/main/usage.md)
 - [Contributing](https://github.com/brgkdm/special-bank/blob/main/contributing.md)
 - [License](https://github.com/brgkdm/special-bank/blob/main/LICENSE)
