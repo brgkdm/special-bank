@@ -30,3 +30,6 @@ For later versions, vulnerabilities and usage incentives for cybersecurity tools
 The file structure can be updated.
 
 * Always open to joint development.
+
+## Disclaimer
+"This content is for informational purposes only and does not provide any advice or guidance. Users should do their own research and seek expert advice when necessary before using the information contained in the content. The author cannot be held responsible for the accuracy of this content and any consequences."
