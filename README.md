@@ -9,14 +9,14 @@ This repository aims to provide a user-friendly website for penetration testing 
 
 
 
-- [Introduction](https://github.com/brgkdm/special-bank/blob/main/Documents/introduction.md)
-- [Features](https://github.com/brgkdm/special-bank/blob/main/Documents/features.md)
-- [Tech Stack](https://github.com/brgkdm/special-bank/blob/main/Documents/tech-stack.md)
-- [Installation Steps](https://github.com/brgkdm/special-bank/blob/main/Documents/setup.md)
-- [Usage](https://github.com/brgkdm/special-bank/blob/main/Documents/usage.md)
-- [Contributing](https://github.com/brgkdm/special-bank/blob/main/Documents/contributing.md)
+- [Introduction](https://github.com/brgkdm/special-bank/blob/main/Docs/introduction.md)
+- [Features](https://github.com/brgkdm/special-bank/blob/main/Docs/features.md)
+- [Tech Stack](https://github.com/brgkdm/special-bank/blob/main/Docs/tech-stack.md)
+- [Installation Steps](https://github.com/brgkdm/special-bank/blob/main/Docs/setup.md)
+- [Usage](https://github.com/brgkdm/special-bank/blob/main/Docs/usage.md)
+- [Contributing](https://github.com/brgkdm/special-bank/blob/main/Docs/contributing.md)
 - [License](https://github.com/brgkdm/special-bank/blob/main/LICENSE)
-- [Contact](https://github.com/brgkdm/special-bank/blob/main/Documents/contact.md)
+- [Contact](https://github.com/brgkdm/special-bank/blob/main/Docs/contact.md)
 
 ## My personal notes for development;
 Core functions can be strengthened and developed.
